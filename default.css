@@ -16,3 +16,9 @@ body{
     float: left;
     margin-right: 30px;
   }
+
+.runing_picture:after{
+  content: "";
+  clear: both;
+  display: block;
+}
